@@ -6,7 +6,7 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-scripts": "3.0.0",
-    "snyk": "^1.192.3"
+    "snyk": "^1.231.0"
   },
   "scripts": {
     "start": "react-scripts start",
